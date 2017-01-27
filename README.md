@@ -10,15 +10,17 @@ Easy to use:
 
 Include library to your HTML file:
 
-```
+```html
 <script type="text/javascript" src="TerminalWriter.js"></script>
 ```
 ### How to use:
 
 How  to call the Terminal Writer:
 
-```
-tag = ".className" or "#id" or "HTML Tag"
+tag = The tag of the element where we want the text.
+examples : ".className" or "#id" or "HTML Tag"
+
+```javascript
 
 terminalWriter(tag, text);
 ```
