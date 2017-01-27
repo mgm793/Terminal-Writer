@@ -21,7 +21,7 @@ terminalWriter(tag, text);
 ```
 ### Example:
 
-** HTML **
+**HTML**
 
 ```html
 
@@ -38,6 +38,7 @@ terminalWriter(tag, text);
 </body>
 </html>
 ```
+**JavaScript**
 
 ```javascript
 
