@@ -15,15 +15,33 @@ Include library to your HTML file:
 ```
 ### How to use:
 
-How  to call the Terminal Writer:
-
-tag = The tag of the element where we want the text.<br /><br />
-
-Examples: ".className" or "#id" or "HTML Tag"
-
 ```javascript
 
 terminalWriter(tag, text);
+```
+### Example:
+
+** HTML **
+
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Terminal Writer</title>
+</head>
+<body>
+	<div class="container"></div>
+	<!-- SCRIPTS -->
+	<script type="text/javascript" src="TerminalWriter.js"></script>
+</body>
+</html>
+```
+
+```javascript
+
+terminalWriter(".container", "Terminal Writer rules!!");
 ```
 ## Author
 
