@@ -17,7 +17,7 @@ Include library to your HTML file:
 
 How  to call the Terminal Writer:
 
-tag = The tag of the element where we want the text.
+tag = The tag of the element where we want the text.\n
 examples : ".className" or "#id" or "HTML Tag"
 
 ```javascript
