@@ -1,4 +1,4 @@
-# Terminal-Writer
+# Terminal Writer
 
 Text animation like Terminal Writing
 
